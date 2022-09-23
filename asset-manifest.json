@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/testReactRepo/static/css/main.d8eed2d6.css",
-    "main.js": "/testReactRepo/static/js/main.6637251e.js",
-    "static/js/787.aa0de564.chunk.js": "/testReactRepo/static/js/787.aa0de564.chunk.js",
-    "static/media/logo.svg": "/testReactRepo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/testReactRepo/index.html",
-    "main.d8eed2d6.css.map": "/testReactRepo/static/css/main.d8eed2d6.css.map",
-    "main.6637251e.js.map": "/testReactRepo/static/js/main.6637251e.js.map",
-    "787.aa0de564.chunk.js.map": "/testReactRepo/static/js/787.aa0de564.chunk.js.map"
+    "main.css": "/reactTestRepo/static/css/main.d8eed2d6.css",
+    "main.js": "/reactTestRepo/static/js/main.059b83ff.js",
+    "static/js/787.aa0de564.chunk.js": "/reactTestRepo/static/js/787.aa0de564.chunk.js",
+    "static/media/logo.svg": "/reactTestRepo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactTestRepo/index.html",
+    "main.d8eed2d6.css.map": "/reactTestRepo/static/css/main.d8eed2d6.css.map",
+    "main.059b83ff.js.map": "/reactTestRepo/static/js/main.059b83ff.js.map",
+    "787.aa0de564.chunk.js.map": "/reactTestRepo/static/js/787.aa0de564.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8eed2d6.css",
-    "static/js/main.6637251e.js"
+    "static/js/main.059b83ff.js"
   ]
 }
